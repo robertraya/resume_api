@@ -1,0 +1,28 @@
+[
+    {
+        "company": Edward Jones,
+        "job_title": Automation Engineer III,
+        "months_experience": 6,
+        "duties": Test
+    },
+    {
+        "company": Edward Jones,
+        "job_title": Programmer Analyst II,
+        "months_experience": 6,
+        "duties": Test
+
+    },
+    {
+        "company": HSD Metrics,
+        "job_title": Senior Business Analyst,
+        "months_experience": 4,
+        "duties": Test
+    },
+    {
+        "company": Discover Financial Services,
+        "job_title": Reporting Analyst,
+        "months_experience": 12,
+        "duties": Test
+
+    }
+]
